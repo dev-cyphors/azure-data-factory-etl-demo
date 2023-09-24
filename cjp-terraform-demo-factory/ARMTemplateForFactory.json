@@ -85,7 +85,7 @@
 					"location": {
 						"type": "AzureBlobStorageLocation",
 						"fileName": "Tab_Expenses.csv",
-						"container": "etl-demo"
+						"container": "terraform-demo"
 					},
 					"columnDelimiter": ",",
 					"escapeChar": "\\",
@@ -119,7 +119,7 @@
 					"location": {
 						"type": "AzureBlobStorageLocation",
 						"fileName": "Tab_Geo_Data.csv",
-						"container": "etl-demo"
+						"container": "terraform-demo"
 					},
 					"columnDelimiter": ",",
 					"escapeChar": "\\",
@@ -156,7 +156,7 @@
 					"location": {
 						"type": "AzureBlobStorageLocation",
 						"fileName": "Tab_Leads.csv",
-						"container": "etl-demo"
+						"container": "terraform-demo"
 					},
 					"columnDelimiter": ",",
 					"escapeChar": "\\",
@@ -189,8 +189,8 @@
 				"typeProperties": {
 					"location": {
 						"type": "AzureBlobStorageLocation",
-						"fileName": "Tab_Projekte.csv",
-						"container": "etl-demo"
+						"fileName": "Tab_Projects.csv",
+						"container": "terraform-demo"
 					},
 					"columnDelimiter": ",",
 					"escapeChar": "\\",
